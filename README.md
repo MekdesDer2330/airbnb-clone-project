@@ -133,7 +133,7 @@ Identifying design properties of a mockup is a **critical step** in the developm
 
 In short, identifying and documenting design properties from mockups improves **collaboration, accuracy, and usability**, leading to a polished and professional final product.  
 
-## Project Roles & Responsibilities  
+## Project Roles and Responsibilities  
 
 | Role | Responsibilities |
 |------|------------------|
