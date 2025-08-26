@@ -32,8 +32,6 @@ The project simulates the core functionality of Airbnb — enabling users to:
 - CI/CD pipeline  
 - Cloud hosting (e.g., Render, Vercel, or AWS)  
 
----
-
 ##  Requirements  
 
 ### 🔹 Project Initialization  
@@ -60,8 +58,6 @@ The project simulates the core functionality of Airbnb — enabling users to:
 - Follow **WCAG accessibility guidelines**  
 - Keep project documentation up to date  
 - Write **unit and integration tests**  
-
----
 
 ## UI/UX Design  
 
@@ -95,8 +91,19 @@ The project simulates the core functionality of Airbnb — enabling users to:
 - **Primary Font:** Circular, Medium (16px)  
 - **Headings:** Circular, Bold (24px–32px)  
 - **Secondary Text:** Circular, Book (14px)  
+## Importance of Identifying Design Properties in Mockups  
 
----
+Identifying design properties of a mockup is a **critical step** in the development process. Mockups bridge the gap between **visual design** and **functional implementation**, and analyzing them carefully ensures that developers and designers are aligned.  
+
+### Why It’s Important  
+1. **Consistency** → Design properties such as color palette, typography, spacing, and component styles ensure a unified look across all pages and features.  
+2. **Accuracy** → Developers can translate the design into code more effectively when they understand the exact specifications (fonts, colors, padding, grid systems, etc.).  
+3. **Efficiency** → Reduces back-and-forth between designers and developers by providing a clear visual reference.  
+4. **Accessibility** → Identifying properties like contrast, text size, and layout helps ensure compliance with **WCAG accessibility standards**.  
+5. **Scalability** → A well-documented design system allows for easy reusability of UI components, making the app more maintainable in the long run.  
+6. **User-Centered Experience** → Ensures that the implemented product reflects the intended **user flow and interactions** from the design stage.  
+
+In short, identifying and documenting design properties from mockups improves **collaboration, accuracy, and usability**, leading to a polished and professional final product.  
 
 ## Project Roles & Responsibilities  
 
@@ -110,8 +117,6 @@ The project simulates the core functionality of Airbnb — enabling users to:
 | DevOps Engineers | Manage deployment, CI/CD, and infrastructure |
 | Product Owner | Define requirements, prioritize features |
 | Scrum Master | Facilitate Agile processes, remove blockers, run standups |  
-
----
 
 ## UI Component Patterns  
 
